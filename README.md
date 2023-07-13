@@ -16,7 +16,7 @@ The results are presented to the user through a user-friendly interface.*
 
 1. *Clone the repository:*
 ```bash
-  git clone https://github.com/raviroyal18/
+  git clone https://github.com/raviroyal18/Human_Stress_Detection
 
 ```
 2. *Install the required dependencies:*
